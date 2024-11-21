@@ -92,8 +92,6 @@ We would like to extend our gratitude to the authors of the following projects, 
 
 Your innovative work has been instrumental in advancing the field of cross-view geo-localization!
 
----
-
 ## 🔗 References
 
 This repository builds upon prior works in cross-view geo-localization and knowledge distillation. See the [paper](link) for detailed references.
