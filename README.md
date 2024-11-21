@@ -1,4 +1,4 @@
-# Distill4Geo: Efficient Cross-View Geo-Localization with Lightweight Models
+# ✂️⚡ Distill4Geo: Efficient Cross-View Geo-Localization with Lightweight Models 📸🛰️
 
 Welcome to the official repository of **Distill4Geo**, a novel knowledge distillation framework designed for cross-view geo-localization. This repository accompanies the paper *Distill4Geo: Streamlined Knowledge Transfer from Contrastive Weight-Sharing Teachers to Independent, Lightweight View Experts*, **currently under review at CVPR 2025**.
 
