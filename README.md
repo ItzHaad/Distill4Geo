@@ -58,8 +58,13 @@ Our approach achieves **state-of-the-art performance** with significant reductio
 
 ---
 
-## 📂 Repository Structure
+## 🏗️ Repository Status
 
+🚧 **This repository is currently a work in progress.** Files, documentation, and scripts are being finalized. Stay tuned for updates as we continue to add testing and training scripts.
+
+---
+
+## 📂 Repository Structure
 - `src/` - Core implementation of Distill4Geo, including teacher-student training modules.
 - `datasets/` - Scripts for preparing and loading CVUSA, CVACT, and VIGOR datasets.
 - `notebooks/` - Jupyter notebooks for result visualization and evaluation.
