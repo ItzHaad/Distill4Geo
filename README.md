@@ -78,6 +78,7 @@ If you find our work useful, please cite:
   journal={CVPR},
   year={2025}
 }
+```
 
 ## 🙌 Acknowledgements
 
