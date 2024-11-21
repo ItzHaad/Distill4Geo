@@ -1,6 +1,6 @@
 # Distill4Geo: Efficient Cross-View Geo-Localization with Lightweight Models
 
-Welcome to the official repository of **Distill4Geo**, a novel knowledge distillation framework designed for cross-view geo-localization. This repository accompanies the paper *Distill4Geo: Streamlined Knowledge Transfer from Contrastive Weight-Sharing Teachers to Independent, Lightweight View Experts*, currently under review at CVPR 2025.
+Welcome to the official repository of **Distill4Geo**, a novel knowledge distillation framework designed for cross-view geo-localization. This repository accompanies the paper *Distill4Geo: Streamlined Knowledge Transfer from Contrastive Weight-Sharing Teachers to Independent, Lightweight View Experts*, **currently under review at CVPR 2025**.
 
 ---
 
@@ -36,12 +36,19 @@ Our approach achieves **state-of-the-art performance** with significant reductio
 
 ## 📊 Results
 
-### CVUSA and CVACT Datasets
+### CVUSA Datasets
 | Method         | R@1    | R@5    | R@10   | R@1%   |
 |----------------|---------|---------|---------|---------|
-| DSM            | 91.96% | 97.50% | 98.54% | 99.67% |
+| Pass-KD        | 94.09% | 98.42% | 99.13% | 99.77% |
 | Sample4Geo     | 98.68% | 99.68% | 99.78% | 99.87% |
 | **Distill4Geo** | 97.92% | 99.58% | 99.76% | 99.86% |
+
+### CVACT Test Datasets
+| Method         | R@1    | R@5    | R@10   | R@1%   |
+|----------------|---------|---------|---------|---------|
+| Pass-KD        | 66.81% | 88.03% | 90.87% | 98.02% |
+| Sample4Geo     | 71.51% | 92.42% | 94.45% | 97.90% |
+| **Distill4Geo** | 71.07% | 91.66% | 93.83% | 98.76% |
 
 ### VIGOR Dataset (Cross-Split)
 | Method         | R@1    | R@5    | R@10   | Hit Rate |
