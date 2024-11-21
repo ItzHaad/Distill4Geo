@@ -79,6 +79,20 @@ If you find our work useful, please cite:
   year={2025}
 }
 
+## 🙌 Acknowledgements
+
+We would like to extend our gratitude to the authors of the following projects, which greatly inspired and influenced this work:
+
+- **FasterViT**: A fast hybrid vision transformer architecture that combines the efficiency of CNNs with the global modeling capabilities of Vision Transformers. Special thanks to the authors for their contributions to efficient deep learning.  
+  Repository: [FasterViT GitHub](https://github.com/NVlabs/FasterViT)
+
+- **Sample4Geo**: A state-of-the-art framework for cross-view geo-localization using contrastive learning and hard negative mining. We appreciate the authors for providing an excellent foundation for our knowledge distillation work.  
+  Repository: [Sample4Geo GitHub](https://github.com/fdeuser/Sample4Geo)
+
+Your innovative work has been instrumental in advancing the field of cross-view geo-localization!
+
+---
+
 ## 🔗 References
 
 This repository builds upon prior works in cross-view geo-localization and knowledge distillation. See the [paper](link) for detailed references.
