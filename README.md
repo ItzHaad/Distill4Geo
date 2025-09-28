@@ -1,6 +1,6 @@
 # ✂️⚡ Distill4Geo: Efficient Cross-View Geo-Localization with Lightweight Models 📸🛰️
 
-Welcome to the official repository of **Distill4Geo**, a novel knowledge distillation framework designed for cross-view geo-localization. This repository accompanies the paper *Distill4Geo: Streamlined Knowledge Transfer from Contrastive Weight-Sharing Teachers to Independent, Lightweight View Experts*, **currently under review at CVPR 2025**.
+Welcome to the official repository of **Distill4Geo**, a novel knowledge distillation framework designed for cross-view geo-localization. This repository accompanies the paper *Distill4Geo: Streamlined Knowledge Transfer from Contrastive Weight-Sharing Teachers to Independent, Lightweight View Experts*, **Accepted at ICONIP 2025**.
 
 ---
 
@@ -77,11 +77,13 @@ Our approach achieves **state-of-the-art performance** with significant reductio
 If you find our work useful, please cite:
 
 ```bibtex
-@article{distill4geo2025,
-  title={Distill4Geo: Streamlined Knowledge Transfer from Contrastive Weight-Sharing Teachers to Independent, Lightweight View Experts},
-  author={Anonymous},
-  journal={CVPR},
-  year={2025}
+@inproceedings{
+zahid2025distillgeo,
+title={Distill4Geo: Streamlined Knowledge Transfer from Contrastive Weight-Sharing Teachers to Independent, Lightweight View Experts},
+author={Muhammad Haad Zahid and Murtaza Taj},
+booktitle={32nd International Conference on Neural Information Processing},
+year={2025},
+url={https://openreview.net/forum?id=fc0w4bD8Vf}
 }
 ```
 
